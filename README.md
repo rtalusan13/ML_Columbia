@@ -25,8 +25,13 @@ This course assumes an understanding of multi-variable calculus and linear algeb
 
 ## Modules Overview
 (Module 1)	Maximum Likelihood
+
 (Module 2)	Regression 1
+
 (Module 3)	Regression 2
+
 (Module 4)	Classification 1
+
 (Module 5)	Classification 2
+
 (Module 6)	Extended Classification
