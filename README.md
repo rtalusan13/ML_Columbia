@@ -1,7 +1,7 @@
 # ML @ Columbia University
 Online Machine Learning I (Grad/Master's Level) Course @ Columbia University.
 
-This course provides an introduction to supervised and unsupervised techniques for machine learning. We will cover probabilistic and non-probabilistic approaches with learning activities such as lecture videos, quizzes, and coding projects.
+This course provides an introduction to supervised and unsupervised techniques for machine learning, covering probabilistic and non-probabilistic approaches with lectures and coding projects.
 
 
 ## Academic Integrity
