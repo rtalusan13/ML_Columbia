@@ -2,7 +2,7 @@
 Online Machine Learning I (Grad/Master's Level) Course @ Columbia University.
 
 
-## My projects are shared as documentation of my learning, not a repository for other students to plagiarize or copy. Therefore, the publishing of my works adheres to avoid violations against these codes:
+# My projects are shared as documentation of my learning, not a repository for other students to plagiarize or copy. Therefore, the publishing of my works adheres to avoid violations against these codes:
 1. Submitting work that is not original.
 2. Submiting someone else’s work, or a modification of that work, with or without that person’s knowledge.
 3. Allowing someone else to submit his/her work or a modification of that work.
