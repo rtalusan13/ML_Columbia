@@ -20,3 +20,12 @@ This course assumes an understanding of multi-variable calculus and linear algeb
 2) Multivariate Calculus
 3) Basic Probability Theory and Statistics (Random variables, distributions, joint distributions, marginal distributions, conditional distributions, independence, Bayes rule, chain rule, probability mass function, probability density function, expectation, variance, maximum likelihood estimators)
 4) Introductory programming in Python
+
+
+## Modules Overview
+Module 1	Maximum Likelihood
+Module 2	Regression 1
+Module 3	Regression 2
+Module 4	Classification 1
+Module 5	Classification 2
+Module 6	Extended Classification
