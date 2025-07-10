@@ -14,6 +14,8 @@ T. Hastie, R. Tibshirani and J. Friedman, The Elements of Statistical Learning, 
 C. Bishop, Pattern Recognition and Machine Learning, Springer.
 
 ## Course Prerequisites:
+This course assumes an understanding of multi-variable calculus and linear algebra. In addition, it assumes proficiency in programming in C++ and an ability to navigate a large codebase.
+
 1) Linear Algebra
 2) Multivariate Calculus
 3) Basic Probability Theory and Statistics (Random variables, distributions, joint distributions, marginal distributions, conditional distributions, independence, Bayes rule, chain rule, probability mass function, probability density function, expectation, variance, maximum likelihood estimators)
