@@ -14,9 +14,7 @@ My projects are shared as documentation of my learning, not a repository for oth
 
 
 ## Recommended Textbooks:
-T. Hastie, R. Tibshirani, and J. Friedman, The Elements of Statistical Learning, Second Edition, Springer.
-
-C. Bishop, Pattern Recognition and Machine Learning, Springer.
+T. Hastie, R. Tibshirani, and J. Friedman, The Elements of Statistical Learning, Second Edition, Springer. <br> C. Bishop, Pattern Recognition and Machine Learning, Springer.
 
 ## Course Prerequisites:
 This course assumes an understanding of multivariable calculus and linear algebra. Additionally, it requires proficiency in programming with C++ and the ability to navigate a large codebase.
