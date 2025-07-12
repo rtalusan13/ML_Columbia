@@ -24,9 +24,7 @@ This course assumes an understanding of multivariable calculus and linear algebr
 3) Basic Probability Theory and Statistics (Random variables, distributions, joint distributions, marginal distributions, conditional distributions, independence, Bayes rule, chain rule, probability mass function, probability density function, expectation, variance, maximum likelihood estimators)
 4) Introductory programming in Python
 
-Use of Anaconda Powershell (conda), Jupyter Notebook Interface, & Python
-
-Libraries: NumPy, Scikit-Learn, and Pandas
+Use of Anaconda Powershell (conda), Jupyter Notebook Interface, & Python <br> Libraries: NumPy, Scikit-Learn, and Pandas
 
 ## Modules Overview
 (Module 1)	Maximum Likelihood
