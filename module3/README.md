@@ -1,6 +1,6 @@
 # Module 3: Regression 2
 ## Module Content
-This module is labeled "Regression 2" in continuation of Module 2. It has 10 mini-lectures on the following topics
+This module is labeled "Regression 2" in continuation of Module 2. It features 10 mini-lectures on the following topics:
 1. Bayes Linear Regression 1
 2. Bayes Linear Regression 2
 3. Uses of Posterior Distribution
