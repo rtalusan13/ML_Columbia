@@ -1,4 +1,17 @@
-# Module 3: Regression
+# Module 3: Regression 2
+## Module Content
+This module is labeled "Regression 2" in continuation of Module 2. It has 10 mini-lectures on the following topics
+1. Bayes Linear Regression 1
+2. Bayes Linear Regression 2
+3. Uses of Posterior Distribution
+4. Active Learning 1
+5. Active Learning 2
+6. Linear Regression-2
+7. Tools: Analysis
+8. Tools: Lagrange Multipliers
+9. Sparse Regression
+10. Regression
+
 ## File Details
 X_train.csv: A comma separated file containing the covariates. Each row corresponds to a single vector x_i.
 
