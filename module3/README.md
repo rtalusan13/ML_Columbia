@@ -12,7 +12,7 @@ This module is labeled "Regression 2" in continuation of Module 2. It features 1
 9. Sparse Regression
 10. Regression
 
-## File Details
+## Project File Details
 X_train.csv: A comma separated file containing the covariates. Each row corresponds to a single vector x_i.
 
 y_train.csv: A file containing the outputs. Each row has a single number and the i-th row of this file combined with the i-th row of "X_train.csv" constitutes the training pair (x_i, y_i).
