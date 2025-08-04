@@ -1,7 +1,5 @@
 # Module 4: Classification 1
 
-Moving away from regression problems and scenarios, this module helped me understand various classification methods, including k-NN, Bayes classifiers, and perceptrons, and how they are used to make predictions based on data.
-
 ## Module Content
 1. Classification
 2. OCR with NN Classifier
@@ -17,3 +15,7 @@ Moving away from regression problems and scenarios, this module helped me unders
 12. Polynomial Generalizations
 13. Least Squares on {-1, +1}
 14. Perceptron Algorithm
+
+## Notes
+
+Moving away from regression problems and scenarios, this module helped me understand various classification methods, including k-NN, Bayes classifiers, and perceptrons, and how they are used to make predictions based on data.
