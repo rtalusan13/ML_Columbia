@@ -1,6 +1,7 @@
 # Module 1: Maximum Likelihood
 
 ## Module Content
+This module is labeled "Maximum Likelihood". It features 11 mini-lectures on the following topics:
 
 1. Introduction to Machine Learning
 2. Data Modeling
