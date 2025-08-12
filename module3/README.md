@@ -88,7 +88,6 @@ You can submit any number of times.
 
 FAQ 9: What does this error mean?
 
-/## standardization formula ##
 error: dlmread: unable to open file 'active_8_3.csv'
 In general, this error comes from the grader. But this does not mean the file is unreadable. Normally the file is not created at all, as your code might have an early exit due to some exception. You should do exception handling to see what exactly is the error.
 
