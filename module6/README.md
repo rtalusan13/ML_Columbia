@@ -2,6 +2,8 @@
 
 ## Module Content
 
+This module is labeled "Extended Classification" in continuation of Modules 4&5. It features 10 mini-lectures on the following topics:
+
 ## Notes
 The UCI Machine Learning Repository (http://archive.ics.uci.edu/ml/Links to an external site.) has a good selection of datasets for classification. While you still may not have the ground truth, you can build confidence that the outputs of your code are reasonable.
 
