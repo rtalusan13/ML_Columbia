@@ -43,7 +43,7 @@ Use of Anaconda Powershell (conda), Jupyter Notebook Interface, & Python <br> Li
 
 My course completion certificate can be found [here](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/157969155)
 
-<u>This certification demonstrates my experience and knowledge in the following topics:</u>
+<u> This certification demonstrates my experience and knowledge in the following topics: </u>
 - Linear Regression and Classification
 - Clustering and Dimensionality Reduction
 - Mathematical Foundations of Machine Learning
