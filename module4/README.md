@@ -1,6 +1,8 @@
 # Module 4: Classification 1
 
 ## Module Content
+This module is labeled "Classification 1". It features 14 mini-lectures on the following topics:
+
 1. Classification
 2. OCR with NN Classifier
 3. k-nearest Neighbors Classifier
