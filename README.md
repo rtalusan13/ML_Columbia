@@ -41,4 +41,4 @@ Use of Anaconda Powershell (conda), Jupyter Notebook Interface, & Python <br> Li
 
 ## Certification
 
-My certification of completion of this course can be found [here]()
+My certification of completion of this course can be found [here](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/157969155)
