@@ -2,7 +2,16 @@
 
 ## Module Content
 
-This module is labeled "Extended Classification" in continuation of Modules 4&5. It features 10 mini-lectures on the following topics:
+This module is labeled "Extended Classification" in continuation of Modules 4&5. It features 8 mini-lectures on the following topics:
+
+1. Maximum Margin Classifiers
+2. Support Vector Machines
+3. Primal and Dual Problems
+4. Soft-Margin SVM
+5. Decision Trees
+6. Basic Decision Tree Learning Algorithm
+7. The Bootstrap
+8. Bagging and Random Forest
 
 ## Notes
 The UCI Machine Learning Repository (http://archive.ics.uci.edu/ml/Links to an external site.) has a good selection of datasets for classification. While you still may not have the ground truth, you can build confidence that the outputs of your code are reasonable.
