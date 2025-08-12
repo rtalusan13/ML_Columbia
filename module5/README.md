@@ -1,6 +1,8 @@
 # Module 5: Classification 2
 
 ## Module Content
+This module is labeled "Classification 2" in continuation of Module 4. It features 9 mini-lectures on the following topics:
+
 1. Logistic Regression
 2. Logistic Regression Likelihood
 3. Logistic Regression Algorithm
