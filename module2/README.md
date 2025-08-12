@@ -1,6 +1,7 @@
 # Module 2: Regression 1
 
 ## Module Content
+This module is labeled "Regression 1". It features 12 mini-lectures on the following topics:
 
 1. Least Squares Linear Regression
 2. A Probabilistic View
