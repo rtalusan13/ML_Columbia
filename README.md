@@ -19,10 +19,10 @@ T. Hastie, R. Tibshirani, and J. Friedman, The Elements of Statistical Learning,
 ## Course Prerequisites:
 This course assumes an understanding of multivariable calculus and linear algebra. Additionally, it requires proficiency in programming with C++ and the ability to navigate a large codebase.
 
-1) Linear Algebra
-2) Multivariate Calculus
+1) Linear Algebra [MIT Open Courseware](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+2) Multivariate Calculus [MIT Open Courseware](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/)
 3) Basic Probability Theory and Statistics (Random variables, distributions, joint distributions, marginal distributions, conditional distributions, independence, Bayes rule, chain rule, probability mass function, probability density function, expectation, variance, maximum likelihood estimators)
-4) Introductory programming in Python
+4) Introductory programming in Python [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 Use of Anaconda Powershell (conda), Jupyter Notebook Interface, & Python <br> Libraries: NumPy, Scikit-Learn, and Pandas
 
@@ -39,4 +39,6 @@ Use of Anaconda Powershell (conda), Jupyter Notebook Interface, & Python <br> Li
 
 (Module 6)	Extended Classification
 
+## Certification
 
+My certification of completion of this course can be found [here]()
