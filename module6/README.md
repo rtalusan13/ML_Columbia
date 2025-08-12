@@ -13,6 +13,14 @@ This module is labeled "Extended Classification" in continuation of Modules 4&5.
 7. The Bootstrap
 8. Bagging and Random Forest
 
+## Project File Details
+
+X_train.csv: A comma separated file containing the covariates. Each row corresponds to a single vector 
+
+y_train.csv: A file containing the classes. Each row has a single number and the i-th row of this file combined with the i-th row of "X_train.csv" constitutes the labeled pair (y_i, x_i). There are 10 classes having index values 0,1,2,...,9.
+
+X_test.csv: This file follows exactly the same format as "X_train.csv". No class file is given for the testing data.
+
 ## Notes
 The UCI Machine Learning Repository (http://archive.ics.uci.edu/ml/Links to an external site.) has a good selection of datasets for classification. While you still may not have the ground truth, you can build confidence that the outputs of your code are reasonable.
 
